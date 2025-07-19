@@ -16,7 +16,7 @@
 		<content>swf/TransformiceAIR.swf</content>
 		<title>Transformice</title>
 		<visible>true</visible>
-        <fullScreen>false</fullScreen>
+		<fullScreen>false</fullScreen>
 		<autoOrients>false</autoOrients>
 	</initialWindow>
 	<icon>
