@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application 
+	xmlns="http://ns.adobe.com/air/application/51.2"
+	minimumPatchLevel="0">
+	<id>Transformice</id>
+	<name>
+		<text xml:lang="en">Transformice</text>
+	</name>
+        <versionNumber>2.0.0</versionNumber>
+	<filename>Transformice</filename>
+	<description>
+		<text xml:lang="en">Fromage !</text>
+	</description>
+	<copyright>Copyright Atelier 801</copyright>
+	<initialWindow>
+		<content>swf/TransformiceAIR.swf</content>
+		<title>Transformice</title>
+		<visible>true</visible>
+        <fullScreen>false</fullScreen>
+		<autoOrients>false</autoOrients>
+	</initialWindow>
+	<icon>
+		<image16x16>icons/icone16.png</image16x16>
+		<image32x32>icons/icone32.png</image32x32>
+		<image48x48>icons/icone48.png</image48x48>
+		<image128x128>icons/icone128.png</image128x128>
+	</icon>
+</application>
